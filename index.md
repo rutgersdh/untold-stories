@@ -2,18 +2,19 @@
 layout: page
 show_title: false
 banner:
-  collection: qatar
-  pid: obj10
+  collection: ussf
+  pid: ussf05
   y: 25%
   clickable: yes
   height: '500px'
 ---
 
-__Wax__ is a [minimal computing](http://go-dh.github.io/mincomp/) project for producing digital exhibitions focused on longevity, low costs, and flexibility. Our underlying technology is made to learn and to teach, and can produce beautifully rendered, high-quality image collections and scholarly exhibits. To start using Wax, please see our [documentation](https://minicomp.github.io/wiki/#/wax/) for installation instructions and more.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vitae convallis turpis. Mauris tempor venenatis mi, eu condimentum purus ornare sed. Quisque luctus erat rutrum lacus malesuada, vel pellentesque arcu porta. In odio ligula, aliquet a arcu id, semper egestas nunc. Aenean tempor sodales ipsum sed euismod. Duis ac enim tincidunt, blandit tellus ut, aliquam odio. Etiam eu ligula ut quam consectetur convallis id ut magna. Praesent ornare finibus dolor venenatis semper. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec ac sem at metus dapibus dictum. Vestibulum cursus interdum orci, non molestie tellus lobortis ac. Sed ornare non mauris nec cursus.
 
-The collection items in this demo are from The Museum of Islamic Art, Qatar, (courtesy of [WikiMedia](https://commons.wikimedia.org/wiki/Category:Google_Art_Project_works_in_The_Museum_of_Islamic_Art,_Qatar) and [Google Art Project](https://www.google.com/culturalinstitute/about/artproject/)) and The Qatar National Library (via [World Digital Library](https://www.wdl.org/en/)).
+Donec sed tellus a arcu tincidunt venenatis. Vestibulum lobortis, diam pulvinar pulvinar porta, purus dui pretium lectus, eget consequat purus arcu vitae diam. Quisque sed eleifend libero. Nunc at quam at diam varius blandit vitae id dolor. Donec justo dolor, pellentesque ut neque sed, dapibus finibus massa. Pellentesque vel elit ante. Fusce non luctus dui. Suspendisse eget lectus et sem dapibus posuere ac ac arcu. Etiam tincidunt diam ut rutrum vehicula. Proin efficitur ac ligula ac luctus. Sed non congue sem, quis porta magna.
+
+Etiam consectetur nibh et congue pellentesque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius, augue id vestibulum tempus, ex neque sollicitudin tellus, condimentum placerat eros dui eu lacus. Nulla facilisi. Integer tempor tortor nec arcu finibus viverra. Cras dignissim urna id cursus congue. Vivamus nunc felis, viverra sed bibendum ut, sollicitudin non quam. Sed malesuada lacus nisi, vel consequat urna dictum in.
 
 ### Browse the Collection
 
-#### By Item Type
-{% include collection_gallery.html facet_by='object_type' collection='qatar' %}
+{% include collection_gallery.html collection='ussf' %}
