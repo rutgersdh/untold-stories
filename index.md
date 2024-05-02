@@ -4,7 +4,7 @@ show_title: false
 banner:
   collection: ussf
   pid: ussf05
-  y: 25%
+  y: 55%
   clickable: yes
   height: '500px'
 ---
